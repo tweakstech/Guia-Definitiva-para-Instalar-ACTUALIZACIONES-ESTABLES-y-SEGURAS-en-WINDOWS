@@ -50,7 +50,7 @@ Una vez que hayas identificado la actualización KB más reciente en el historia
 
 Una vez que hayas confirmado que no hay problemas con la actualización, procede a instalarla en tu sistema. Asegúrate de que la instalación sea **offline** para evitar cualquier interferencia:
 
-1. **Descargar** la actualización desde el Catálogo de Microsoft Update.
+1. **Descargar** la actualización desde el Catálogo de Microsoft .
 2. **Ejecutar** el instalador descargado haciendo doble clic en él.
 3. **Seguir las instrucciones** en pantalla para completar la instalación.
 
