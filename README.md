@@ -12,7 +12,13 @@ Para asegurar una instalación estable de Windows, comienza descargando la **ver
 > [!NOTE]
 > Estas versiones suelen ser más estables y seguras ya que han sido ampliamente probadas antes de su lanzamiento oficial.
 
-## 2. Desactivar Actualizaciones Automáticas de Windows
+### Cómo descargar la ISO de Windows 10 directamente
+
+Para descargar la ISO de Windows 10 directamente:
+
+1. **Abre las herramientas de desarrollo del navegador** (puedes hacerlo haciendo clic derecho en la página y seleccionando "Inspeccionar").
+2. **Activa la opción "Toggle device toolbar" (o presiona Ctrl + Shift + M) para cambiar al modo de vista de dispositivos.**
+3. **Actualiza la página (F5) y aparecerá el menú para seleccionar la versión de la ISO y descargarla.**
 
 Una vez que hayas instalado Windows, el siguiente paso es **desactivar las actualizaciones automáticas de Windows**. Esto te permitirá tener un control total sobre las actualizaciones que se instalan en tu sistema, eligiendo cuáles actualizar y cuándo hacerlo.
 
