@@ -1,5 +1,14 @@
 # 🚀 Guía Definitiva para Instalar **ACTUALIZACIONES ESTABLES** y **SEGURAS** en **WINDOWS** 🔒🖥️
 
+## Índice
+
+1. [Instalar una Versión ISO Estable desde la Página Oficial de Microsoft](#1-instalar-una-versi%C3%B3n-iso-estable-desde-la-p%C3%A1gina-oficial-de-microsoft)
+2. [Desactivar las Actualizaciones Automáticas de Windows](#2-desactivar-las-actualizaciones-autom%C3%A1ticas-de-windows)
+3. [Verificar el Historial de Actualizaciones en la Página de Microsoft](#3-verificar-el-historial-de-actualizaciones-en-la-p%C3%A1gina-de-microsoft)
+4. [Buscar y Descargar la Actualización KB más Reciente](#4-buscar-y-descargar-la-actualizaci%C3%B3n-kb-m%C3%A1s-reciente)
+5. [Verificar Problemas con la Actualización Antes de Instalar](#5-verificar-problemas-con-la-actualizaci%C3%B3n-antes-de-instalar)
+6. [Instalar la Actualización Descargada](#6-instalar-la-actualizaci%C3%B3n-descargada)
+
 ## 1. Instalar una Versión ISO Estable desde la Página Oficial de Microsoft
 
 Para asegurar una instalación estable de Windows, comienza descargando la **versión más reciente de Windows utilizando una ISO disponible en la página oficial de Microsoft**. Las ISOs suelen contener versiones de Windows con actualizaciones previas a la fecha de descarga, las cuales son versiones estables y probadas.
@@ -20,14 +29,25 @@ Para descargar la ISO de Windows 10 directamente:
 2. **Activa la opción "Toggle device toolbar" (o presiona Ctrl + Shift + M) para cambiar al modo de vista de dispositivos.**
 3. **Actualiza la página (F5) y aparecerá el menú para seleccionar la versión de la ISO y descargarla.**
 
+## 2. Desactivar las Actualizaciones Automáticas de Windows
+
 Una vez que hayas instalado Windows, el siguiente paso es **desactivar las actualizaciones automáticas de Windows**. Esto te permitirá tener un control total sobre las actualizaciones que se instalan en tu sistema, eligiendo cuáles actualizar y cuándo hacerlo.
 
 > [!IMPORTANT]
 > Desactivar las actualizaciones automáticas es crucial para evitar que se instalen actualizaciones no deseadas que puedan causar problemas en el sistema.
 
-Puedes utilizar una herramienta gratuita llamada **Windows Update Blocker** para desactivar las actualizaciones automáticas fácilmente. Descárgala desde el siguiente enlace:
+### Cómo desactivar las actualizaciones automáticas utilizando Windows Update Blocker
 
-- [Descargar Windows Update Blocker v1.8](https://www.sordum.org/9470/windows-update-blocker-v1-8/)
+Puedes utilizar una herramienta gratuita llamada **Windows Update Blocker** para desactivar las actualizaciones automáticas fácilmente. Sigue estos pasos:
+
+1. **Descarga la herramienta Windows Update Blocker** desde el siguiente enlace:
+   - [Descargar Windows Update Blocker v1.8](https://www.sordum.org/9470/windows-update-blocker-v1-8/)
+
+2. **Ejecuta el archivo descargado** y abre la herramienta.
+3. **Selecciona la opción para desactivar las actualizaciones automáticas** y aplica los cambios.
+4. **Reinicia tu computadora** para que los cambios surtan efecto.
+
+Así tendrás un control completo sobre las actualizaciones de tu sistema operativo.
 
 ## 3. Verificar el Historial de Actualizaciones en la Página de Microsoft
 
