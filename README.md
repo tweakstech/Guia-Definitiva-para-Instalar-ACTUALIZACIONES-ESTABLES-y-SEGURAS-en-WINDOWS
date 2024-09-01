@@ -85,6 +85,7 @@ Una vez que hayas confirmado que no hay problemas con la actualización, procede
 
 > [!NOTE]
 > Instalar actualizaciones de manera manual te permite tener mayor control sobre las versiones que instalas y te ayuda a evitar problemas comunes asociados con las actualizaciones automáticas.
+>
 > **Esto es especialmente importante para jugadores o trabajadores que dependen de la estabilidad del sistema para sus juegos o aplicaciones críticas, ya que una actualización inesperada podría causar conflictos y pérdida de estabilidad y seguridad en el sistema**.
 
 ---
